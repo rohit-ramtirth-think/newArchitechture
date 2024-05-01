@@ -1,0 +1,9 @@
+ninja: Entering directory `/Users/ttpl-apl-013/Desktop/AjinkyaLearning/NewArchitechture/android/app/.cxx/Debug/16r4j3e1/x86'
+[0/2] Re-checking globbed directories...
+[1/2] Re-running CMake...
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/ttpl-apl-013/Desktop/AjinkyaLearning/NewArchitechture/android/app/.cxx/Debug/16r4j3e1/x86
+[0/2] Re-checking globbed directories...
+[1/2] Building CXX object CMakeFiles/appmodules.dir/OnLoad.cpp.o
+[2/2] Linking CXX shared library /Users/ttpl-apl-013/Desktop/AjinkyaLearning/NewArchitechture/android/app/build/intermediates/cxx/Debug/16r4j3e1/obj/x86/libappmodules.so

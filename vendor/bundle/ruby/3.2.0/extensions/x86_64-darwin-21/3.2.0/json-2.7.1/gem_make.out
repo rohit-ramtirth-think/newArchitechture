@@ -1,0 +1,16 @@
+current directory: /Users/ttpl-apl-013/Desktop/AjinkyaLearning/NewArchitechture/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+/Users/ttpl-apl-013/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/ttpl-apl-013/Desktop/AjinkyaLearning/NewArchitechture/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240301-44260-d306is sitelibdir\=./.gem.20240301-44260-d306is clean
+
+current directory: /Users/ttpl-apl-013/Desktop/AjinkyaLearning/NewArchitechture/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240301-44260-d306is sitelibdir\=./.gem.20240301-44260-d306is
+make: Nothing to be done for `all'.
+
+current directory: /Users/ttpl-apl-013/Desktop/AjinkyaLearning/NewArchitechture/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240301-44260-d306is sitelibdir\=./.gem.20240301-44260-d306is install
+
+current directory: /Users/ttpl-apl-013/Desktop/AjinkyaLearning/NewArchitechture/vendor/bundle/ruby/3.2.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240301-44260-d306is sitelibdir\=./.gem.20240301-44260-d306is clean

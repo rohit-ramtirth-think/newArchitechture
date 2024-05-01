@@ -1,0 +1,5 @@
+CMake Warning at /Users/ttpl-apl-013/Desktop/AjinkyaLearning/NewArchitechture/node_modules/react-native-svg/android/src/main/jni/CMakeLists.txt:68 (message):
+  CMAKE_CURRENT_SORUCE_DIR
+  /Users/ttpl-apl-013/Desktop/AjinkyaLearning/NewArchitechture/node_modules/react-native-svg/android/src/main/jni
+
+

@@ -1,0 +1,19 @@
+current directory: /Users/ttpl-apl-013/Desktop/AjinkyaLearning/NewArchitechture/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+/Users/ttpl-apl-013/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/ttpl-apl-013/Desktop/AjinkyaLearning/NewArchitechture/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240301-44260-8nopbr sitelibdir\=./.gem.20240301-44260-8nopbr clean
+
+current directory: /Users/ttpl-apl-013/Desktop/AjinkyaLearning/NewArchitechture/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240301-44260-8nopbr sitelibdir\=./.gem.20240301-44260-8nopbr
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/ttpl-apl-013/Desktop/AjinkyaLearning/NewArchitechture/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240301-44260-8nopbr sitelibdir\=./.gem.20240301-44260-8nopbr install
+/usr/local/bin/ginstall -c -m 0755 nkf.bundle ./.gem.20240301-44260-8nopbr
+
+current directory: /Users/ttpl-apl-013/Desktop/AjinkyaLearning/NewArchitechture/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240301-44260-8nopbr sitelibdir\=./.gem.20240301-44260-8nopbr clean

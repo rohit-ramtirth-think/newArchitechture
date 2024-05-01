@@ -1,0 +1,9 @@
+/Users/ttpl-apl-013/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/ttpl-apl-013/Desktop/AjinkyaLearning/NewArchitechture/android/app/.cxx/Debug/16r4j3e1/armeabi-v7a \
+  appmodules \
+  react_codegen_RNVectorIconsSpec \
+  react_codegen_rngesturehandler_codegen \
+  react_codegen_rnscreens \
+  react_codegen_rnsvg \
+  react_codegen_safeareacontext
